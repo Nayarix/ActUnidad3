@@ -1,0 +1,15 @@
+﻿  Personaje.cpp
+  TPFinalMavi.cpp
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,88): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,88): warning C4244:         with
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,88): warning C4244:         [
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,88): warning C4244:             T=unsigned int
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,88): warning C4244:         ]
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,56): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,56): warning C4244:         with
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,56): warning C4244:         [
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,56): warning C4244:             T=unsigned int
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(205,56): warning C4244:         ]
+C:\Users\Usuario\source\repos\TPFinalMavi\TPFinalMavi.cpp(296,41): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  TPFinalMavi.vcxproj -> C:\Users\Usuario\source\repos\TPFinalMavi\Debug\TPFinalMavi.exe
